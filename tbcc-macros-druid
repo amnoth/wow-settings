@@ -1,0 +1,48 @@
+---
+---
+#showtooltip Cyclone
+/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Cyclone;
+
+---
+#showtooltip Entangling Roots
+/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Entangling Roots;
+
+---
+#showtooltip Faerie Fire
+/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Faerie Fire;
+
+---
+#showtooltip Healing Touch
+/cast [@mouseover,exists,help] [@target,exists,help] Healing Touch;
+
+---
+#showtooltip Hibernate
+/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Hibernate;
+
+---
+#showtooltip Innervate
+/cast [@mouseover,exists,help] Innervate;
+
+---
+#showtooltip Lifebloom
+/cast [@mouseover,exists,help] [@target,exists,help] Lifebloom;
+
+---
+#showtooltip Rebirth
+/cast [@mouseover,exists,help,dead] [@target,exists,help,dead] Rebirth;
+
+---
+#showtooltip Regrowth
+/cast [@mouseover,exists,help] [@target,exists,help] Regrowth;
+
+---
+#showtooltip Rejuvenation
+/cast [@mouseover,exists,help] [@target,exists,help] Rejuvenation;
+
+---
+#showtooltip Soothe Animal
+/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Soothe Animal;
+
+---
+#showtooltip Swiftmend
+/cast [@mouseover,exists,help] [@target,exists,help] Swiftmend;
