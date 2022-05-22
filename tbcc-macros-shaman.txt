@@ -1,0 +1,20 @@
+---
+#showtooltip Chain Heal
+/cast [@mouseover,exists,help,nodead] [@target,exists,help,nodead] Chain Heal;
+
+---
+#showtooltip Lesser Healing Wave
+/cast [@mouseover,exists,help,nodead] [@target,exists,help,nodead] Lesser Healing Wave;
+
+---
+#showtooltip Healing Wave
+/cast [@mouseover,exists,help,nodead] [@target,exists,help,nodead] Healing Wave;
+
+---
+#showtooltip Earth Sheild
+/cast [@mouseover,exists,help,nodead] [@target,exists,help,nodead] Earth Sheild;
+
+---
+#showtooltip Earth Shock
+/stopcasting
+/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Earth Shock;
