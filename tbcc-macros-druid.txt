@@ -1,5 +1,4 @@
 ---
----
 #showtooltip Cyclone
 /cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Cyclone;
 
