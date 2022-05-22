@@ -30,5 +30,15 @@
 /cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Flame Shock;
 
 ---
+#showtooltip Lightning Bolt
+/stopcasting
+/cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Lightning Bolt;
+
+---
+#showtooltip Chain Lightning
+/stopcasting
+/cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Chain Lightning;
+
+---
 #showtooltip Purge
 /cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Purge;
