@@ -21,4 +21,4 @@
 
 ---
 #showtooltip Purge
-/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Purge;
+/cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Purge;
