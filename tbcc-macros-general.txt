@@ -8,3 +8,7 @@
 #showtooltip Conjured Manna Biscuit
 /use Conjured Manna Biscuit
 /use Naaru Ration
+
+---
+#showtooltip
+/cast [flyable] Swift Purple Windrider; Reawakened Phase-Hunter
