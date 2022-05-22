@@ -18,3 +18,7 @@
 #showtooltip Earth Shock
 /stopcasting
 /cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Earth Shock;
+
+---
+#showtooltip Purge
+/cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Purge;
