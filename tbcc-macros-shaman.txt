@@ -20,5 +20,15 @@
 /cast [@focus,exists,harm,nodead] [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Earth Shock;
 
 ---
+#showtooltip Frost Shock
+/stopcasting
+/cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Frost Shock;
+
+---
+#showtooltip Flame Shock
+/stopcasting
+/cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Flame Shock;
+
+---
 #showtooltip Purge
 /cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Purge;
