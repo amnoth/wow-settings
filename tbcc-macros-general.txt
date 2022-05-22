@@ -1,0 +1,10 @@
+---
+#showtooltip Master Healthstone
+/use item:22105
+/use item:22104
+/use item:22103
+
+---
+#showtooltip Conjured Manna Biscuit
+/use Conjured Manna Biscuit
+/use Naaru Ration
