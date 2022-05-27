@@ -37,4 +37,5 @@
 
 ---
 #showtooltip Purge
+/stopcasting
 /cast [@mouseover,exists,harm,nodead] [@target,exists,harm,nodead] Purge;
